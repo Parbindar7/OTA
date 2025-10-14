@@ -1,13 +1,13 @@
 {
     "response": [
         {
-            "datetime": 1759989228,
-            "filename": "axion-2.0-BETA-20251009-COMMUNITY-GMS-m31.zip",
-            "id": "3b4bb4b19dedc8c11c620e6aeea139f7",
+            "datetime": 1760420987,
+            "filename": "axion-2.1-NIGHTLY-20251014-COMMUNITY-GMS-m31.zip",
+            "id": "f405c894193c0b0766f2a337fd70124f",
             "romtype": "COMMUNITY",
-            "size": 1544862562,
-            "url": "https://github.com/Parbindar7/OTA/releases/download/Axion_09-10-2025/axion-2.0-BETA-20251009-COMMUNITY-GMS-m31.zip",
-            "version": "2.0"
+            "size": 1545543380,
+            "url": "https://github.com/Parbindar7/OTA/releases/download/Axion_14-10-2025/axion-2.1-NIGHTLY-20251014-COMMUNITY-GMS-m31.zip",
+            "version": "2.1"
         }
     ]
 }
