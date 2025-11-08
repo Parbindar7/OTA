@@ -1,13 +1,13 @@
 {
     "response": [
         {
-            "datetime": 1762149991,
-            "filename": "axion-2.1-NIGHTLY-20251103-COMMUNITY-GMS-f41.zip",
-            "id": "010aee3eb33d2c01f87f52a0c518bdaa",
-            "romtype": "COMMUNITY",
-            "size": 1850532599,
-            "url": "https://github.com/Parbindar7/OTA/releases/download/Axion_03-11-2025/axion-2.1-NIGHTLY-20251103-COMMUNITY-GMS-f41.zip",
-            "version": "2.1"
+            "datetime": 1762576638,
+            "filename": "axion-2.2-NIGHTLY-20251108-UNOFFICIAL-GMS-f41.zip",
+            "id": "a6637b5245740988056fbaee19671ef7",
+            "romtype": "UNOFFICIAL",
+            "size": 1525900938,
+            "url": "https://github.com/Parbindar7/OTA/releases/download/Axion_08-11-2025/axion-2.2-NIGHTLY-20251108-UNOFFICIAL-GMS-f41.zip",
+            "version": "2.2"
         }
     ]
 }

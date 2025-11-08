@@ -1,13 +1,13 @@
 {
     "response": [
         {
-            "datetime": 1762152127,
-            "filename": "axion-2.1-NIGHTLY-20251103-COMMUNITY-GMS-m31.zip",
-            "id": "fb110f3861fba0fc51e20eed03dd4570",
-            "romtype": "COMMUNITY",
-            "size": 1849503743,
-            "url": "https://github.com/Parbindar7/OTA/releases/download/Axion_03-11-2025/axion-2.1-NIGHTLY-20251103-COMMUNITY-GMS-m31.zip",
-            "version": "2.1"
+            "datetime": 1762578702,
+            "filename": "axion-2.2-NIGHTLY-20251108-UNOFFICIAL-GMS-m31.zip",
+            "id": "e53a641c57ac152031ab3b5ae09a1465",
+            "romtype": "UNOFFICIAL",
+            "size": 1524906384,
+            "url": "https://github.com/Parbindar7/OTA/releases/download/Axion_08-11-2025/axion-2.2-NIGHTLY-20251108-UNOFFICIAL-GMS-m31.zip",
+            "version": "2.2"
         }
     ]
 }
