@@ -1,13 +1,13 @@
 {
     "response": [
         {
-            "datetime": 1763901117,
-            "filename": "axion-2.2.1-NIGHTLY-20251123-UNOFFICIAL-GMS-a51.zip",
-            "id": "5fa0dba7fc87879c2503202354d97bd6",
+            "datetime": 1769697079,
+            "filename": "axion-2.4-SOLACE-20260129-UNOFFICIAL-GMS-a51.zip",
+            "id": "be5670d9ef6e57c4cdca023f8a8a9bf9",
             "romtype": "UNOFFICIAL",
-            "size": 1530076872,
-            "url": "https://github.com/Parbindar7/OTA/releases/download/Axion_23-11-2025/axion-2.2.1-NIGHTLY-20251123-UNOFFICIAL-GMS-a51.zip",
-            "version": "2.2.1"
+            "size": 1694255850,
+            "url": "https://github.com/Parbindar7/OTA/releases/download/Axion_29-01-2026/axion-2.4-SOLACE-20260129-UNOFFICIAL-GMS-a51.zip",
+            "version": "2.4"
         }
     ]
 }
