@@ -1,12 +1,12 @@
 {
     "response": [
         {
-            "datetime": 1769698949,
-            "filename": "axion-2.4-SOLACE-20260129-UNOFFICIAL-GMS-m21.zip",
-            "id": "5e829c53a8c710902239d7d59aed906c",
+            "datetime": 1771490958,
+            "filename": "axion-2.4-SOLACE-20260219-UNOFFICIAL-GMS-m21.zip",
+            "id": "4b0acb59f5ce7b84951a4c72e061c64c",
             "romtype": "UNOFFICIAL",
-            "size": 1690420308,
-            "url": "https://github.com/Parbindar7/OTA/releases/download/Axion_29-01-2026/axion-2.4-SOLACE-20260129-UNOFFICIAL-GMS-m21.zip",
+            "size": 1688969284,
+            "url": "https://github.com/Parbindar7/OTA/releases/download/Axion_19-02-2026/axion-2.4-SOLACE-20260219-UNOFFICIAL-GMS-m21.zip",
             "version": "2.4"
         }
     ]

@@ -1,12 +1,12 @@
 {
     "response": [
         {
-            "datetime": 1769697845,
-            "filename": "axion-2.4-SOLACE-20260129-UNOFFICIAL-GMS-m31s.zip",
-            "id": "d00da15433b860b025969ddd8cd716e0",
+            "datetime": 1771496220,
+            "filename": "axion-2.4-SOLACE-20260219-UNOFFICIAL-GMS-m31s.zip",
+            "id": "e1bf0154088b1394b55323df612be361",
             "romtype": "UNOFFICIAL",
-            "size": 1689549874,
-            "url": "https://github.com/Parbindar7/OTA/releases/download/Axion_29-01-2026/axion-2.4-SOLACE-20260129-UNOFFICIAL-GMS-m31s.zip",
+            "size": 1688201312,
+            "url": "https://github.com/Parbindar7/OTA/releases/download/Axion_19-02-2026/axion-2.4-SOLACE-20260219-UNOFFICIAL-GMS-m31s.zip",
             "version": "2.4"
         }
     ]

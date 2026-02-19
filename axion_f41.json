@@ -1,12 +1,12 @@
 {
     "response": [
         {
-            "datetime": 1769699831,
-            "filename": "axion-2.4-SOLACE-20260129-UNOFFICIAL-GMS-f41.zip",
-            "id": "a3fb9aa846209cfa79022f36123b4422",
+            "datetime": 1771490406,
+            "filename": "axion-2.4-SOLACE-20260219-UNOFFICIAL-GMS-f41.zip",
+            "id": "775b6d841167c3c6ca3ab4ab68c73c71",
             "romtype": "UNOFFICIAL",
-            "size": 1688428061,
-            "url": "https://github.com/Parbindar7/OTA/releases/download/Axion_29-01-2026/axion-2.4-SOLACE-20260129-UNOFFICIAL-GMS-f41.zip",
+            "size": 1688418347,
+            "url": "https://github.com/Parbindar7/OTA/releases/download/Axion_19-02-2026/axion-2.4-SOLACE-20260219-UNOFFICIAL-GMS-f41.zip",
             "version": "2.4"
         }
     ]
