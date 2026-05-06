@@ -1,0 +1,15 @@
+Date: 06-05-2026
+universal9611-common: Decrease launch boost to 3sec
+universal9611-common: overlay: Define config_screenRecorderAVCProfileLevel
+universal9611-common: Enable frame pacing for smoother visual performance
+universal9611-common: Re-tune powerhint for efficiency
+universal9611-common: set TARGET_CPU_VARIANT to cortex-a73
+universal9611-common: powerhint: Cleanup
+universal9611-common: Add UclampTAMin & UclampTALatency
+universal9611-common: Drop schedtune
+universal9611-common: powerhint: Improve launch Uclamp and boost behavior
+universal9611-common: update cpuset parameters
+universal9611-common: Add UclampTAMin to LAUNCH
+universal9611-common: task_profiles: Replace Schedtune with Uclamp
+universal9611-common: task_profiles: Add missing profiles and uclamp attributes
+universal9611-common: powerhint: Refactor powerhint.json
