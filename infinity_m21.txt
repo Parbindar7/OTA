@@ -1,3 +1,5 @@
-Date: 16-08-2026
-universal9611-common: powerhint: Boost on EXPENSIVE_RENDERING
-universal9611-common: Drop config_sustainedPerformanceModeSupported
+Date: 17-09-2026
+universal9611-common: Kang AIDL Widevine from a14
+universal9611-common: Move props under properties
+universal9611-common: init: Re-configure cpuset
+universal9611-common: Move manifests under vintf

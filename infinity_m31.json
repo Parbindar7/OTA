@@ -1,11 +1,11 @@
 {
         "response": [
                 {
-                        "filename": "Project_Infinity-X-3.12-m31-16.08.2026-GAPPS-UNOFFICIAL.zip",
-                        "download": "https://github.com/Parbindar7/OTA/releases/download/InfinityX_16-08-2026/Project_Infinity-X-3.12-m31-16.08.2026-GAPPS-UNOFFICIAL.zip",
-                        "timestamp": 1786867174,
-                        "md5": "0348841688411cc0ed244c3dd8b127d1",
-                        "size": 1755766594,
+                        "filename": "Project_Infinity-X-3.12-m31-17.09.2026-VANILLA-UNOFFICIAL.zip",
+                        "download": "https://github.com/Parbindar7/OTA/releases/download/InfinityX_17-09-2026/Project_Infinity-X-3.12-m31-17.09.2026-VANILLA-UNOFFICIAL.zip",
+                        "timestamp": 1789613631,
+                        "md5": "c22eccf8e296b29783362e07df98f844",
+                        "size": 1370188418,
                         "version": "3.12"
                 }
         ]
