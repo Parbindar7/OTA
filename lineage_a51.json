@@ -1,0 +1,17 @@
+[
+  {
+    "datetime": 1792220030,
+    "files": [
+      {
+        "filename": "lineage-24.0-20261017-UNOFFICIAL-a51.zip",
+        "os_patch_level": "2026-10-01",
+        "os_sdk_level": 37,
+        "sha256": "4ed01827a1b02872db6c67d47e847524ae547d51369ea3d35041fe09cc9d11e2",
+        "size": 1147311645,
+        "url": "https://github.com/Parbindar7/OTA/releases/download/LineageOS_17-10-2026/lineage-24.0-20261017-UNOFFICIAL-a51.zip"
+      }
+    ],
+    "type": "unofficial",
+    "version": "24.0"
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "datetime": 1792218461,
+    "files": [
+      {
+        "filename": "lineage-24.0-20261017-UNOFFICIAL-m21.zip",
+        "os_patch_level": "2026-10-01",
+        "os_sdk_level": 37,
+        "sha256": "832592c000fe82261fd1dcda2bb8ec9f2173a1dded500d598204e9e601b6f4ef",
+        "size": 1144078314,
+        "url": "https://github.com/Parbindar7/OTA/releases/download/LineageOS_17-10-2026/lineage-24.0-20261017-UNOFFICIAL-m21.zip"
+      }
+    ],
+    "type": "unofficial",
+    "version": "24.0"
+  }
+]
