@@ -1,14 +1,14 @@
 [
   {
-    "datetime": 1792219142,
+    "datetime": 1792837409,
     "files": [
       {
-        "filename": "lineage-24.0-20261017-UNOFFICIAL-f41.zip",
+        "filename": "lineage-24.0-20261024-UNOFFICIAL-f41.zip",
         "os_patch_level": "2026-10-01",
         "os_sdk_level": 37,
-        "sha256": "21e8da0dc1d3beec30b0e7f34af74b8fee772ceef99ee64d1be13148d8e3e5f7",
-        "size": 1143398051,
-        "url": "https://github.com/Parbindar7/OTA/releases/download/LineageOS_17-10-2026/lineage-24.0-20261017-UNOFFICIAL-f41.zip"
+        "sha256": "27f5924257e826d68b0b04894336feea45215f4f925881ebc7d39d87de8c9de5",
+        "size": 1144393389,
+        "url": "https://github.com/Parbindar7/OTA/releases/download/LineageOS_24-10-2026/lineage-24.0-20261024-UNOFFICIAL-f41.zip"
       }
     ],
     "type": "unofficial",

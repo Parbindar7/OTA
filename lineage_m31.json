@@ -1,14 +1,14 @@
 [
   {
-    "datetime": 1792216936,
+    "datetime": 1792838822,
     "files": [
       {
-        "filename": "lineage-24.0-20261017-UNOFFICIAL-m31.zip",
+        "filename": "lineage-24.0-20261024-UNOFFICIAL-m31.zip",
         "os_patch_level": "2026-10-01",
         "os_sdk_level": 37,
-        "sha256": "c51ff90b87bcdf927e0a87047a5a3fb6739a272a25de21bb69b3b3b989001f40",
-        "size": 1143715102,
-        "url": "https://github.com/Parbindar7/OTA/releases/download/LineageOS_17-10-2026/lineage-24.0-20261017-UNOFFICIAL-m31.zip"
+        "sha256": "55cfef6676ca8b39858f701bd95fa023b7a329d9a49f2ef10e2b92e3ce7d5ca5",
+        "size": 1144706091,
+        "url": "https://github.com/Parbindar7/OTA/releases/download/LineageOS_24-10-2026/lineage-24.0-20261024-UNOFFICIAL-m31.zip"
       }
     ],
     "type": "unofficial",
